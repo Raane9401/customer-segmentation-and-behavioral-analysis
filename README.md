@@ -90,10 +90,5 @@ Segmented users based on spend and frequency:
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## 🤝 Contact
-
-For collaboration or questions, reach out via [LinkedIn](#) or email at `yourname@example.com`.
 
 ---
