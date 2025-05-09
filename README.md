@@ -1,2 +1,2 @@
 # customer-behavior-analysis
-This project performs exploratory data analysis (EDA) , Analyzes customer behavior, order activity, and engagement patterns for users registered in Sep 2019 through Oct 2020 to uncover insights for growth, retention, and marketing strategies.
+This project performs exploratory data analysis (EDA) on machine-generated user data from a food delivery service. The dataset includes users who registered in September 2019 and tracks their activity through October 2020. The analysis focuses on identifying user behavior patterns, customer segmentation, order activity trends, and key metrics that could inform marketing and retention strategies.
