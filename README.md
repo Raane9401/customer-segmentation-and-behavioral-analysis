@@ -1,5 +1,5 @@
 
-# 🚀 Customer Behavior Analysis –  Food Delivery Platform
+# 🚀 Customer Segmentation and Behavior Analysis –  Food Delivery Platform
 
 This project delivers impactful exploratory data analysis (EDA) on user data from a food delivery service. It uncovers customer behavior trends, segments user types, and identifies key growth and retention insights over a 13-month period—from September 2019 to October 2020.
 
